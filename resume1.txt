@@ -1,0 +1,12 @@
+let resume ={
+    "Name" : "Praveen",
+    "Age" : 25,
+    "emailid" :"praveenhb0610@gmail.com",
+    "mobile_number": 9786918661,
+    "hobby" :"playing cricket "
+    "Education" : "BE EEE",
+    "year_of_passing" : 2019,
+    "skills" : "time management ,postive thinking",
+    "work_experience" : "Two years in sales domain",
+    "Language_known" : "C and javascript"
+     }
